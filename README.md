@@ -1,85 +1,81 @@
-<!-- Encabezado animado -->
-<h1 align="center">👋 ¡Hola! Soy Kenny Ramírez</h1>
-<h3 align="center">💻 Desarrollador Full Stack | 🌐 Django | ⚡ Angular | ☁️ AWS | ⚙️ Celery</h3>
+<!-- Encabezado principal con estilo limpio -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Kenny+Ramírez!;💻+Desarrollador+Full+Stack;⚡+Django+%7C+Angular+%7C+AWS+%7C+Celery" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🧠 Acerca de mí
+### 🧭 Sobre mí
 
-Soy un desarrollador apasionado por crear soluciones eficientes y bien estructuradas.  
-Me encanta trabajar con **Django**, **Angular**, y herramientas que integren backend y frontend de forma ágil.  
-Actualmente estoy enfocado en optimizar procesos, automatizar tareas con **Celery**,  
-y construir interfaces limpias y funcionales en **Angular 17**.
+Soy un desarrollador **Full Stack** apasionado por construir aplicaciones escalables, limpias y funcionales.  
+Trabajo principalmente con **Django REST Framework**, **Angular 17** y **AWS**, siempre buscando equilibrio entre rendimiento y buena arquitectura.
 
-- 🚀 Actualmente trabajando en **gestión de proyectos y automatización con IA**
-- 🔍 En constante aprendizaje sobre **arquitectura escalable y microservicios**
-- 💬 Pregúntame sobre **Django REST Framework, Angular, AWS S3, Celery, PostgreSQL**
-- 📫 Cómo contactarme: **kennyramirez.dev@gmail.com**
-- ⚡ Fun fact: Siempre intento que cada línea de código tenga propósito y claridad ✨
+✨ _Menos es más: me enfoco en código claro, mantenible y con propósito._
 
----
-
-### 🧰 Tecnologías y herramientas
-
-#### 🖥️ Lenguajes y Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,typescript,angular,html,css,js" />
-</p>
-
-#### 🧩 Backend & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,aws,docker,celery,redis,linux" />
-</p>
-
-#### 🧠 Herramientas de desarrollo
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm" />
-</p>
+- 🚀 Actualmente trabajando en soluciones de automatización con IA  
+- 🌱 Aprendiendo sobre arquitectura distribuida y optimización de procesos asíncronos  
+- 📬 Contacto: **kennyramirez.dev@gmail.com**  
+- ⚙️ Principio favorito: *"Hazlo simple, pero significativo."*
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+### 🧠 Stack Tecnológico
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kennyramirez&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyramirez&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,typescript,angular,html,css,js,postgres,aws,docker,celery,redis,git" />
+</div>
 
 ---
 
-### 🌎 Conecta conmigo
+### 📈 Estadísticas
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kennyramirez/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="mailto:kennyramirez.dev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
-  </a>
-  <a href="https://github.com/kennyramirez" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kennyramirez&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&line_height=28&theme=transparent&hide_border=true&custom_title=Estadísticas%20de%20GitHub" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyramirez&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="160"/>
+</div>
 
 ---
 
 ### 🏗️ Proyectos destacados
 
-- 🧩 [**Sistema de gestión de proyectos**](https://github.com/kennyramirez/project-management)  
-  Plataforma completa con Angular + Django + Celery + AWS.
+<div align="center">
+  
+| Proyecto | Descripción | Tecnologías |
+|-----------|-------------|--------------|
+| [💼 Gestión de Proyectos](https://github.com/kennyramirez/project-management) | Plataforma completa Angular + Django + Celery + AWS. | `Angular` · `Django` · `Celery` |
+| [🧠 Automatización con IA](https://github.com/kennyramirez/ai-automation) | Procesamiento inteligente y asincrónico de tareas. | `Python` · `Django` · `Celery` |
+| [☁️ Subida a S3 con Celery](https://github.com/kennyramirez/s3-uploader) | Ejemplo práctico de integración AWS + tareas asíncronas. | `AWS` · `Celery` |
 
-- 🧠 [**Automatización de procesos con IA**](https://github.com/kennyramirez/ai-automation)  
-  Implementación de tareas inteligentes usando procesamiento asíncrono.
-
-- ☁️ [**Subida de archivos con Celery + S3**](https://github.com/kennyramirez/s3-uploader)  
-  Ejemplo práctico de integración asíncrona en Django.
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kennyramirez&theme=tokyonight&no-frame=true&row=1" alt="Trophies" />
-</p>
+</div>
 
 ---
 
-⭐️ *Gracias por visitar mi perfil. ¡El código bien hecho también cuenta una historia!*
+### 🤝 Conecta conmigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kennyramirez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="mailto:kennyramirez.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/kennyramirez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</div>
+
+---
+
+### 🏆 Logros y actividad
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kennyramirez&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" width="90%"/>
+</div>
+
+---
+
+<div align="center">
+  
+🖤 _“El código limpio es el arte de la elegancia invisible.”_  
+
+</div>
