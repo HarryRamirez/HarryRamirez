@@ -73,7 +73,7 @@
       text-align: center;
     ">
       <img src="arky.png"
-        style="width: 45%; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
+        style="width: 45%; height: 80px; object-fit: cover; margin-bottom: 12px;">
       
       <h3 style="margin: 0 0 8px 0; font-size: 18px;">📌 ARQI Cotizaciones</h3>
       <p style="font-size: 14px; margin-bottom: 14px; text-align: left;">
