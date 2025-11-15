@@ -60,7 +60,7 @@
 
 ### 🌟 Proyectos Destacados
 
-<div align="center" style="margin-top: 20px;">
+<div align="lefth" style="margin-top: 20px;">
 
 <a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
