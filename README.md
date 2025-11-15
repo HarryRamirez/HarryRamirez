@@ -64,7 +64,6 @@
 
 <!-- ARKY -->
 <td width="40%" style="padding: 10px;">
-
 <div align="center" style="
   border:1px solid #222;
   border-radius:16px;
@@ -72,7 +71,7 @@
   box-shadow:0 4px 12px rgba(0,0,0,0.18);
 ">
 
-<img src="arky.png" width="100%" style="margin-bottom:12px;" alt="ARKY">
+<img src="arky.png" width="100%" style="margin-bottom:12px; margin-top: 0;" alt="ARKY">
 
 <h3 align="center">📌 ARKY Cotizaciones</h3>
 
