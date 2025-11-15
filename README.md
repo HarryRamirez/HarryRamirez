@@ -104,7 +104,7 @@
   box-shadow:0 4px 12px rgba(0,0,0,0.18);
 ">
 
-<img src="https://via.placeholder.com/320x180?text=Izy+Testing" width="100%" style="border-radius:12px; margin-bottom:12px;" alt="Izy Testing">
+<img src="izytesting.png" width="100%" style="border-radius:12px; margin-bottom:12px;" alt="Izy Testing">
 
 <h3 align="center">🧪 Izy Testing</h3>
 
