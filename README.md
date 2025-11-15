@@ -59,13 +59,24 @@
 ---
 
 ### 🌟 Proyectos Destacados
+<table>
+<tr>
 
-<table> 
-<tr> 
-  <td width="40%" style="margin rigth: 5px;"> 
-    <h3 align="center">📌 ARKY Cotizaciones</h3> 
-    <div align="center" style="border:1px solid #222;border-radius:16px;padding:14px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"> <a href="https://github.com/HarryRamirez/ARKY" target="_blank"> 
-      <img src="arky.png" width="45%" style="border-radius:12px;" alt="ARKY"> </a> <p> <strong>Sistema para gestionar cotizaciones de manera rápida y organizada.</strong> </p>
+<!-- ARKY -->
+<td width="40%" style="padding: 10px;">
+
+<div align="center" style="
+  border:1px solid #222;
+  border-radius:16px;
+  padding:18px;
+  box-shadow:0 4px 12px rgba(0,0,0,0.18);
+">
+
+<img src="arky.png" width="320" style="border-radius:12px; margin-bottom:12px;" alt="ARKY">
+
+<h3 align="center">📌 ARKY Cotizaciones</h3>
+
+<p><strong>Sistema para gestionar cotizaciones de manera rápida y organizada.</strong></p>
 
 <b>Tecnologías:</b><br>
 <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
@@ -74,17 +85,30 @@
 <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
 
 <br><br>
+
 <a href="https://github.com/HarryRamirez/ARKY" target="_blank">
 <img src="https://img.shields.io/badge/Repositorio-fff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
-</div> 
-</td> 
+</div>
 
+</td>
 
-<td width="40%"> 
-  <h3 align="center">🧪 Izy Testing</h3> 
-  <div align="center" style="border:1px solid #222;border-radius:16px;padding:14px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"> <a href="https://github.com/HarryRamirez/Izy-Testing" target="_blank"> <img src="https://via.placeholder.com/260x150?text=Izy+Testing" width="260" style="border-radius:12px;" alt="Izy Testing"> </a> <p> <strong>Plataforma de automatización de pruebas con IA y agentes inteligentes.</strong> </p>
+<!-- IZY TESTING -->
+<td width="40%" style="padding: 10px;">
+
+<div align="center" style="
+  border:1px solid #222;
+  border-radius:16px;
+  padding:18px;
+  box-shadow:0 4px 12px rgba(0,0,0,0.18);
+">
+
+<img src="https://via.placeholder.com/320x180?text=Izy+Testing" width="320" style="border-radius:12px; margin-bottom:12px;" alt="Izy Testing">
+
+<h3 align="center">🧪 Izy Testing</h3>
+
+<p><strong>Plataforma de automatización de pruebas con IA y agentes inteligentes.</strong></p>
 
 <b>Tecnologías:</b><br>
 <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django">
@@ -95,17 +119,17 @@
 <img src="https://img.shields.io/badge/ChatGPT-05122A?style=flat&logo=openai">
 
 <br><br>
+
 <a href="https://github.com/HarryRamirez/Izy-Testing" target="_blank">
 <img src="https://img.shields.io/badge/Repositorio-fff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
+</div>
 
+</td>
 
-</div> 
-</td> 
-</tr> 
-</table> 
-<br> 
+</tr>
+</table>
 ---
 
 ### 📊 Estadísticas
