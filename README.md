@@ -88,7 +88,7 @@
 </a>
 
 
-<!-- Easy Testing -->
+<!-- Izy Testing -->
 <a href="https://github.com/HarryRamirez/Izy-Testing">
   <div style="
       width: 300px;
@@ -101,7 +101,7 @@
   ">
     <img src="https://via.placeholder.com/300x160?text=Easy+Testing" width="100%" style="border-radius: 10px;">
     <h3>🧪 Izy Testing</h3>
-    <p>Plataforma para gestionar test suites con IA integrada, agentes y automatizaciones.</p>
+    <p>Plataforma para gestionar Automatizaciones de pruebas con IA integrada, agentes.</p>
     <b>Tecnologías:</b><br>
     <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django">
     <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
