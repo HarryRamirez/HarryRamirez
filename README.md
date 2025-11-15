@@ -2,7 +2,7 @@
 ![logo](BannerLinkedin.png)
 
 <p align="lefth">
-<a href="https://linkedin.com/in/kenny-jarrison-ramirez-quezada-b699ba174"><img src="https://img.shields.io/badge/-linkedin%20Sing-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kenny-jarrison-ramirez-quezada-b699ba174"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kennyharry47@gmail.com"><img src="https://img.shields.io/badge/-kennyharry47@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
@@ -97,23 +97,3 @@ Gestión avanzada de tareas, usuarios y automatización de procesos.</p>
 </div>
 
 ---
-
-### 🤝 Conecta conmigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kennyramirez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
-  </a>
-  <a href="mailto:kennyramirez.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
-  </a>
-  <a href="https://github.com/kennyramirez" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:3b82f6&height=120&section=footer" />
-</p>
