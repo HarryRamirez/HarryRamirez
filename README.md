@@ -76,7 +76,7 @@
       border: 1px solid #222;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   ">
-    <img src="arky.png" width="100%" style="border-radius: 12px; margin-bottom: 10px;">
+    <img src="arky.png" width="45%"  style="border-radius: 12px; margin-bottom: 10px;">
     <h3 style="margin: 0 0 8px 0;">📌 ARKY Cotizaciones</h3>
     <p style="font-size: 14px; margin-bottom: 10px;">
       Sistema para gestionar cotizaciones de proyectos con un flujo claro y rápido.
@@ -105,7 +105,7 @@
       border: 1px solid #222;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   ">
-    <img src="https://via.placeholder.com/300x160?text=Izy+Testing" width="100%" style="border-radius: 12px; margin-bottom: 10px;">
+    <img src="https://via.placeholder.com/300x160?text=Izy+Testing" width="45%"  style="border-radius: 12px; margin-bottom: 10px;">
     <h3 style="margin: 0 0 8px 0;">🧪 Izy Testing</h3>
     <p style="font-size: 14px; margin-bottom: 10px;">
       Plataforma para automatización de pruebas con IA, agentes y funciones avanzadas.
@@ -136,7 +136,7 @@
       border: 1px solid #222;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   ">
-    <img src="https://via.placeholder.com/300x160?text=AppStore" width="100%" style="border-radius: 12px; margin-bottom: 10px;">
+    <img src="https://via.placeholder.com/300x160?text=AppStore" width="45%"  style="border-radius: 12px; margin-bottom: 10px;">
     <h3 style="margin: 0 0 8px 0;">📱 AppStore</h3>
     <p style="font-size: 14px; margin-bottom: 10px;">
       Gestor de aplicaciones con una interfaz limpia y administración simple.
