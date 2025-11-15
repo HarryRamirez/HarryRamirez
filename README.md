@@ -133,7 +133,7 @@
 
 ### 📊 Estadísticas
 
-<p width="100%"> 
+<p width="100%" padding="0"> 
   <a href="https://github.com/HarryRamirez"> 
     <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarryRamirez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=css,html&exclude_repo=Curso-Java,Ejercicios-UTP,pruebas"/> 
   </a> 
