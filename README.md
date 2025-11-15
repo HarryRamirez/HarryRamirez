@@ -26,7 +26,7 @@
 
 ### 🧠 Tecnologías
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 10px;">
+<div align="lefth" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 10px;">
 <!-- Lenguajes -->
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" />  
 <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" />  
@@ -51,7 +51,6 @@
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" />  
 <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github" />  
 <img src="https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab" />  
-<img src="https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown" />  
 <img src="https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visualstudiocode" />  
 <img src="https://img.shields.io/badge/Eclipse-05122A?style=flat&logo=eclipseide" />
 
