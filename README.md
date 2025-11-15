@@ -91,9 +91,11 @@ Gestión avanzada de tareas, usuarios y automatización de procesos.</p>
 
 ### 📊 Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kennyramirez&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=00000000&icon_color=6366f1&text_color=e2e8f0" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennyramirez&theme=radical&hide_border=true&background=00000000&currStreakLabel=6366f1" height="170" />
-</div>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
