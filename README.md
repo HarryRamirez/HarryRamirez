@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Kenny%20Ramírez&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Django%20%26%20Angular&descAlignY=55" alt="banner" />
+  <img src="banner.jpg" alt="banner" />
 </p>
 
 ---
