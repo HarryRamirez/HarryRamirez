@@ -94,7 +94,7 @@
 </td>
 
 <!-- IZY TESTING -->
-<td width="40%" style="padding: 10px; height: auto;">
+<td width="40%" style="padding: 10px; height: 200px;">
 
 <div align="center" style="
   border:1px solid #222;
