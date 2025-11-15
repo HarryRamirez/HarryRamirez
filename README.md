@@ -60,86 +60,98 @@
 
 ### 🌟 Proyectos Destacados
 
-<div align="lefth" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 22px;">
 
   <!-- ARQI Cotizaciones -->
   <a href="https://github.com/HarryRamirez/ARQI" style="text-decoration: none; color: inherit;">
     <div style="
-        width: 100px;
-        text-align: left;
-        padding: 16px;
-        border-radius: 16px;
-        background: #ffffff10;
-        border: 1px solid #222;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      width: 250px;
+      background: #ffffff10;
+      border-radius: 16px;
+      padding: 16px;
+      border: 1px solid #222;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+      text-align: center;
     ">
-      <img src="arky.png" style="width: 100%; border-radius: 12px; margin-bottom: 12px;">
-      <h3 style="margin: 0 0 8px 0;">📌 ARQI Cotizaciones</h3>
-      <p style="font-size: 14px; margin-bottom: 10px;">
+      <img src="arky.png"
+        style="width: 80px; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
+      
+      <h3 style="margin: 0 0 8px 0; font-size: 18px;">📌 ARQI Cotizaciones</h3>
+      <p style="font-size: 14px; margin-bottom: 14px; text-align: left;">
         Sistema para gestionar cotizaciones de proyectos con un flujo claro y rápido.
       </p>
 
-      <b style="font-size: 13px;">Tecnologías:</b><br>
-      <img src="https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot">
-      <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
-      <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
-      <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
-      <br><br>
-      🔗 Ver repositorio
+      <b style="font-size: 13px;">Tecnologías:</b>
+      <div style="margin-top: 8px;">
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      </div>
+
+      <div style="margin-top: 14px; font-size: 14px;">🔗 Ver repositorio</div>
     </div>
   </a>
 
   <!-- Easy Testing -->
   <a href="https://github.com/HarryRamirez/Easy-Testing" style="text-decoration: none; color: inherit;">
     <div style="
-        width: 100px;
-        text-align: left;
-        padding: 16px;
-        border-radius: 16px;
-        background: #ffffff10;
-        border: 1px solid #222;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      width: 250px;
+      background: #ffffff10;
+      border-radius: 16px;
+      padding: 16px;
+      border: 1px solid #222;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+      text-align: center;
     ">
-      <img src="https://via.placeholder.com/300x160?text=Easy+Testing" style="width: 100%; border-radius: 12px; margin-bottom: 12px;">
-      <h3 style="margin: 0 0 8px 0;">🧪 Easy Testing</h3>
-      <p style="font-size: 14px; margin-bottom: 10px;">
-        Plataforma para automatización de pruebas con IA, agentes y funciones avanzadas.
+      <img src="https://via.placeholder.com/150x100?text=Easy+Testing"
+        style="width: 80px; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
+
+      <h3 style="margin: 0 0 8px 0; font-size: 18px;">🧪 Easy Testing</h3>
+      <p style="font-size: 14px; margin-bottom: 14px; text-align: left;">
+        Plataforma para automatización de pruebas con IA, agentes y herramientas avanzadas.
       </p>
 
-      <b style="font-size: 13px;">Tecnologías:</b><br>
-      <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django">
-      <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
-      <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
-      <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql">
-      <img src="https://img.shields.io/badge/AWS%20S3-05122A?style=flat&logo=amazonaws">
-      <img src="https://img.shields.io/badge/ChatGPT-05122A?style=flat&logo=openai">
-      <br><br>
-      🔗 Ver repositorio
+      <b style="font-size: 13px;">Tecnologías:</b>
+      <div style="margin-top: 8px;">
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg"/>
+      </div>
+
+      <div style="margin-top: 14px; font-size: 14px;">🔗 Ver repositorio</div>
     </div>
   </a>
 
   <!-- AppStore -->
   <a href="https://github.com/HarryRamirez/AppStore" style="text-decoration: none; color: inherit;">
     <div style="
-        width: 100px;
-        text-align: left;
-        padding: 16px;
-        border-radius: 16px;
-        background: #ffffff10;
-        border: 1px solid #222;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      width: 250px;
+      background: #ffffff10;
+      border-radius: 16px;
+      padding: 16px;
+      border: 1px solid #222;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+      text-align: center;
     ">
-      <img src="https://via.placeholder.com/300x160?text=AppStore" style="width: 100%; border-radius: 12px; margin-bottom: 12px;">
-      <h3 style="margin: 0 0 8px 0;">📱 AppStore</h3>
-      <p style="font-size: 14px; margin-bottom: 10px;">
+      <img src="https://via.placeholder.com/150x100?text=AppStore"
+        style="width: 80px; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
+
+      <h3 style="margin: 0 0 8px 0; font-size: 18px;">📱 AppStore</h3>
+      <p style="font-size: 14px; margin-bottom: 14px; text-align: left;">
         Gestor de aplicaciones con una interfaz limpia y administración simple.
       </p>
 
-      <b style="font-size: 13px;">Tecnologías:</b><br>
-      <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
-      <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
-      <br><br>
-      🔗 Ver repositorio
+      <b style="font-size: 13px;">Tecnologías:</b>
+      <div style="margin-top: 8px;">
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      </div>
+
+      <div style="margin-top: 14px; font-size: 14px;">🔗 Ver repositorio</div>
     </div>
   </a>
 
