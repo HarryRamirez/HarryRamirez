@@ -72,7 +72,7 @@
   box-shadow:0 4px 12px rgba(0,0,0,0.18);
 ">
 
-<img src="arky.png" width="100%"  margin-bottom:12px;" alt="ARKY">
+<img src="arky.png" width="100%" style="margin-bottom:12px;" alt="ARKY">
 
 <h3 align="center">📌 ARKY Cotizaciones</h3>
 
@@ -104,7 +104,7 @@
   box-shadow:0 4px 12px rgba(0,0,0,0.18);
 ">
 
-<img src="izytesting.png" width="100%" margin-bottom:12px;" alt="Izy Testing">
+<img src="izytesting.png" width="100%" style="margin-bottom:12px;" alt="Izy Testing">
 
 <h3 align="center">🧪 Izy Testing</h3>
 
