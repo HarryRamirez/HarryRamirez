@@ -139,7 +139,7 @@
   </a> 
   
   <a href="https://github.com/HarryRamirez"> 
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarryRamirez&layout=compact&langs_count=8&theme=algolia&hide=css,html&exclude_repo=Curso-Java,Ejercicios-UTP,pruebas"/> 
+  <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarryRamirez&layout=compact&langs_count=8&theme=algolia&hide=css,html&exclude_repo=Curso-Java,Ejercicios-UTP,pruebas"/> 
   </a> 
 </p>
 
