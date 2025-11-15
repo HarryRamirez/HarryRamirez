@@ -133,14 +133,14 @@
 
 ### 📊 Estadísticas
 
-<table border="none">
+<table style="border: none;">
   <tr >
-    <td border="none" >
+    <td>
   <a href="https://github.com/HarryRamirez"> 
     <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarryRamirez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=css,html&exclude_repo=Curso-Java,Ejercicios-UTP,pruebas"/> 
   </a> 
   </td>
-  <td border="none">
+  <td>
   <a href="https://github.com/HarryRamirez"> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarryRamirez&layout=compact&langs_count=8&theme=algolia&hide=css,html&exclude_repo=Curso-Java,Ejercicios-UTP,pruebas"/> 
   </a> 
