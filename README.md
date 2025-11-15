@@ -73,7 +73,7 @@
       padding: 15px;
       border: 1px solid #1b1b1b;
   ">
-    <img src="arky.png" width="100%" style="border-radius: 10px;">
+    <img src="arky.png" width="50%" style="border-radius: 10px;">
     <h3>📌 ARKY Cotizaciones</h3>
     <p>Sistema para gestionar cotizaciones de proyectos con un flujo claro y rápido.</p>
     <b>Tecnologías:</b><br>
