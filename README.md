@@ -4,9 +4,9 @@
 
 ---
 
-<div align="center">
+<div align="lefth">
 
-### 👋 ¡Hola! Soy **Kenny Ramírez**
+### 👋 ¡Hola! Soy 
 💻 Desarrollador **Full Stack** enfocado en construir software limpio, escalable y con propósito.  
 ✨ Me apasiona unir lo mejor del **backend (Django)** con **frontend (Angular)** para crear experiencias eficientes y elegantes.
 
