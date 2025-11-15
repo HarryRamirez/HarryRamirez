@@ -62,29 +62,17 @@
 
 <div align="center" style="margin-top: 20px;">
 
-<a href="https://github.com/kennyramirez/project-management" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-💼%20Gestión%20de%20Proyectos-3B82F6?style=for-the-badge&logo=angular&logoColor=white" alt="Gestión de Proyectos"/>
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
 </a>
 
-<p>Plataforma completa basada en <b>Angular</b> + <b>Django</b> + <b>Celery</b> + <b>AWS</b>.  
-Gestión avanzada de tareas, usuarios y automatización de procesos.</p>
-
-<br/>
-
-<a href="https://github.com/kennyramirez/ai-automation" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-🧠%20Automatización%20con%20IA-9333EA?style=for-the-badge&logo=python&logoColor=white" alt="Automatización con IA"/>
+<a href="https://github.com/Davekibh/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
 </a>
 
-<p>Procesamiento inteligente de tareas con <b>IA</b> y ejecución asincrónica en <b>Celery</b>.</p>
-
-<br/>
-
-<a href="https://github.com/HarryRamirez" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-☁️%20Uploader%20S3%20Asíncrono-0EA5E9?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Uploader S3"/>
+<a href="https://github.com/Davekibh/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
 </a>
-
-<p>Subida optimizada de archivos con <b>Django</b> + <b>AWS S3</b> + <b>Celery</b>.</p>
-
 </div>
 
 ---
