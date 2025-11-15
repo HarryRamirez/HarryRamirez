@@ -133,7 +133,7 @@
 
 ### 📊 Estadísticas
 
-<table>
+<table border="none">
   <tr border="none">
     <td border="none" >
   <a href="https://github.com/HarryRamirez"> 
