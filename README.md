@@ -60,93 +60,89 @@
 
 ### 🌟 Proyectos Destacados
 
-<div align="lefth" style="margin-top: 20px;">
+<div align="lefth" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<!-- ARKY Cotizaciones -->
-<a href="https://github.com/HarryRamirez/ARKY" style="text-decoration: none;">
-  <div style="
-      width: 260px;
-      display: inline-block;
-      vertical-align: top;
-      text-align: left;
-      margin: 12px;
-      padding: 16px;
-      border-radius: 16px;
-      background: #ffffff10;
-      border: 1px solid #222;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  ">
-    <img src="arky.png" width="45%"  style="border-radius: 12px; margin-bottom: 10px;">
-    <h3 style="margin: 0 0 8px 0;">📌 ARKY Cotizaciones</h3>
-    <p style="font-size: 14px; margin-bottom: 10px;">
-      Sistema para gestionar cotizaciones de proyectos con un flujo claro y rápido.
-    </p>
-    <b style="font-size: 13px;">Tecnologías:</b><br>
-    <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
-    <img src="https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot">
-    <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
-    <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql"><br><br>
-    🔗 Ver repositorio
-  </div>
-</a>
+  <!-- ARQI Cotizaciones -->
+  <a href="https://github.com/HarryRamirez/ARQI" style="text-decoration: none; color: inherit;">
+    <div style="
+        width: 260px;
+        text-align: left;
+        padding: 16px;
+        border-radius: 16px;
+        background: #ffffff10;
+        border: 1px solid #222;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    ">
+      <img src="arky.png" style="width: 100%; border-radius: 12px; margin-bottom: 12px;">
+      <h3 style="margin: 0 0 8px 0;">📌 ARQI Cotizaciones</h3>
+      <p style="font-size: 14px; margin-bottom: 10px;">
+        Sistema para gestionar cotizaciones de proyectos con un flujo claro y rápido.
+      </p>
 
+      <b style="font-size: 13px;">Tecnologías:</b><br>
+      <img src="https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot">
+      <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
+      <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
+      <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
+      <br><br>
+      🔗 Ver repositorio
+    </div>
+  </a>
 
-<!-- Izy Testing -->
-<a href="https://github.com/HarryRamirez/Izy-Testing" style="text-decoration: none;">
-  <div style="
-      width: 260px;
-      display: inline-block;
-      vertical-align: top;
-      text-align: left;
-      margin: 12px;
-      padding: 16px;
-      border-radius: 16px;
-      background: #ffffff10;
-      border: 1px solid #222;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  ">
-    <img src="https://via.placeholder.com/300x160?text=Izy+Testing" width="45%"  style="border-radius: 12px; margin-bottom: 10px;">
-    <h3 style="margin: 0 0 8px 0;">🧪 Izy Testing</h3>
-    <p style="font-size: 14px; margin-bottom: 10px;">
-      Plataforma para automatización de pruebas con IA, agentes y funciones avanzadas.
-    </p>
-    <b style="font-size: 13px;">Tecnologías:</b><br>
-    <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django">
-    <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
-    <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
-    <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql">
-    <img src="https://img.shields.io/badge/AWS%20S3-05122A?style=flat&logo=amazonaws">
-    <img src="https://img.shields.io/badge/ChatGPT-05122A?style=flat&logo=openai"><br><br>
-    🔗 Ver repositorio
-  </div>
-</a>
+  <!-- Easy Testing -->
+  <a href="https://github.com/HarryRamirez/Easy-Testing" style="text-decoration: none; color: inherit;">
+    <div style="
+        width: 260px;
+        text-align: left;
+        padding: 16px;
+        border-radius: 16px;
+        background: #ffffff10;
+        border: 1px solid #222;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    ">
+      <img src="https://via.placeholder.com/300x160?text=Easy+Testing" style="width: 100%; border-radius: 12px; margin-bottom: 12px;">
+      <h3 style="margin: 0 0 8px 0;">🧪 Easy Testing</h3>
+      <p style="font-size: 14px; margin-bottom: 10px;">
+        Plataforma para automatización de pruebas con IA, agentes y funciones avanzadas.
+      </p>
 
+      <b style="font-size: 13px;">Tecnologías:</b><br>
+      <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django">
+      <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
+      <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
+      <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql">
+      <img src="https://img.shields.io/badge/AWS%20S3-05122A?style=flat&logo=amazonaws">
+      <img src="https://img.shields.io/badge/ChatGPT-05122A?style=flat&logo=openai">
+      <br><br>
+      🔗 Ver repositorio
+    </div>
+  </a>
 
-<!-- AppStore -->
-<a href="https://github.com/HarryRamirez/AppStore" style="text-decoration: none;">
-  <div style="
-      width: 260px;
-      display: inline-block;
-      vertical-align: top;
-      text-align: left;
-      margin: 12px;
-      padding: 16px;
-      border-radius: 16px;
-      background: #ffffff10;
-      border: 1px solid #222;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  ">
-    <img src="https://via.placeholder.com/300x160?text=AppStore" width="45%"  style="border-radius: 12px; margin-bottom: 10px;">
-    <h3 style="margin: 0 0 8px 0;">📱 AppStore</h3>
-    <p style="font-size: 14px; margin-bottom: 10px;">
-      Gestor de aplicaciones con una interfaz limpia y administración simple.
-    </p>
-    <b style="font-size: 13px;">Tecnologías:</b><br>
-    <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
-    <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql"><br><br>
-    🔗 Ver repositorio
-  </div>
-</a>
+  <!-- AppStore -->
+  <a href="https://github.com/HarryRamirez/AppStore" style="text-decoration: none; color: inherit;">
+    <div style="
+        width: 260px;
+        text-align: left;
+        padding: 16px;
+        border-radius: 16px;
+        background: #ffffff10;
+        border: 1px solid #222;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    ">
+      <img src="https://via.placeholder.com/300x160?text=AppStore" style="width: 100%; border-radius: 12px; margin-bottom: 12px;">
+      <h3 style="margin: 0 0 8px 0;">📱 AppStore</h3>
+      <p style="font-size: 14px; margin-bottom: 10px;">
+        Gestor de aplicaciones con una interfaz limpia y administración simple.
+      </p>
+
+      <b style="font-size: 13px;">Tecnologías:</b><br>
+      <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
+      <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
+      <br><br>
+      🔗 Ver repositorio
+    </div>
+  </a>
+
 </div>
 
 ---
