@@ -60,7 +60,12 @@
 
 ### 🌟 Proyectos Destacados
 
-<table> <tr> <td width="50%"> <h3 align="center">📌 ARKY Cotizaciones</h3> <div align="center" style="border:1px solid #222;border-radius:16px;padding:14px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"> <a href="https://github.com/HarryRamirez/ARKY" target="_blank"> <img src="arky.png" width="260" style="border-radius:12px;" alt="ARKY"> </a> <p> <strong>Sistema para gestionar cotizaciones de manera rápida y organizada.</strong> </p>
+<table> 
+<tr> 
+  <td width="50%"> 
+    <h3 align="center">📌 ARKY Cotizaciones</h3> 
+    <div align="center" style="border:1px solid #222;border-radius:16px;padding:14px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"> <a href="https://github.com/HarryRamirez/ARKY" target="_blank"> 
+      <img src="arky.png" width="45%" style="border-radius:12px;" alt="ARKY"> </a> <p> <strong>Sistema para gestionar cotizaciones de manera rápida y organizada.</strong> </p>
 
 <b>Tecnologías:</b><br>
 <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
