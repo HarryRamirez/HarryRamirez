@@ -63,7 +63,7 @@
 <tr>
 
 <!-- ARKY -->
-<td width="40%" style="padding: 10px;">
+<td width="40%" style="padding: 10px; height: auto;">
 <div align="center" style="
   border:1px solid #222;
   border-radius:16px;
@@ -94,7 +94,7 @@
 </td>
 
 <!-- IZY TESTING -->
-<td width="40%" style="padding: 10px;">
+<td width="40%" style="padding: 10px; height: auto;">
 
 <div align="center" style="
   border:1px solid #222;
