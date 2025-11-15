@@ -62,7 +62,7 @@
 
 <div align="lefth" style="margin-top: 20px;">
 
-<!-- ARQI Cotizaciones -->
+<!-- ARKY Cotizaciones -->
 <a href="https://github.com/HarryRamirez/ARKY">
   <div style="
       width: 300px;
@@ -74,7 +74,7 @@
       border: 1px solid #1b1b1b;
   ">
     <img src="https://via.placeholder.com/300x160?text=ARQI+Cotizaciones" width="100%" style="border-radius: 10px;">
-    <h3>📌 ARQI Cotizaciones</h3>
+    <h3>📌 ARKY Cotizaciones</h3>
     <p>Sistema para gestionar cotizaciones de proyectos con un flujo claro y rápido.</p>
     <b>Tecnologías:</b><br>
     <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
@@ -100,7 +100,7 @@
       border: 1px solid #1b1b1b;
   ">
     <img src="https://via.placeholder.com/300x160?text=Easy+Testing" width="100%" style="border-radius: 10px;">
-    <h3>🧪 Easy Testing</h3>
+    <h3>🧪 Izy Testing</h3>
     <p>Plataforma para gestionar test suites con IA integrada, agentes y automatizaciones.</p>
     <b>Tecnologías:</b><br>
     <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django">
