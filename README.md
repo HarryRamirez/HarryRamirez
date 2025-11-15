@@ -65,7 +65,7 @@
   <!-- ARQI Cotizaciones -->
   <a href="https://github.com/HarryRamirez/ARQI" style="text-decoration: none; color: inherit;">
     <div style="
-        width: 260px;
+        width: 100px;
         text-align: left;
         padding: 16px;
         border-radius: 16px;
@@ -92,7 +92,7 @@
   <!-- Easy Testing -->
   <a href="https://github.com/HarryRamirez/Easy-Testing" style="text-decoration: none; color: inherit;">
     <div style="
-        width: 260px;
+        width: 100px;
         text-align: left;
         padding: 16px;
         border-radius: 16px;
@@ -121,7 +121,7 @@
   <!-- AppStore -->
   <a href="https://github.com/HarryRamirez/AppStore" style="text-decoration: none; color: inherit;">
     <div style="
-        width: 260px;
+        width: 100px;
         text-align: left;
         padding: 16px;
         border-radius: 16px;
