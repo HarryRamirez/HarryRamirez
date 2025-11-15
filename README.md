@@ -9,8 +9,8 @@
 <div align="lefth">
 
 ### 👋 ¡Hola! Soy 
-💻 Desarrollador **Full Stack** enfocado en construir software limpio, escalable y con propósito.  
-✨ Me apasiona unir lo mejor del **backend (Django)** con **frontend (Angular)** para crear experiencias eficientes y elegantes.
+💻 Desarrollador **Full Stack Junior** enfocado en construir software limpio, escalable y con propósito.  
+✨ Me apasiona unir lo mejor del **backend (Django)**, **(Spring Boot)** con **frontend (Angular)** para crear experiencias eficientes y elegantes.
 
 ---
 
