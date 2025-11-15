@@ -62,16 +62,81 @@
 
 <div align="lefth" style="margin-top: 20px;">
 
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<!-- ARQI Cotizaciones -->
+<a href="https://github.com/HarryRamirez/ARKY">
+  <div style="
+      width: 300px;
+      display: inline-block;
+      text-align: left;
+      margin: 10px;
+      border-radius: 15px;
+      padding: 15px;
+      border: 1px solid #1b1b1b;
+  ">
+    <img src="https://via.placeholder.com/300x160?text=ARQI+Cotizaciones" width="100%" style="border-radius: 10px;">
+    <h3>📌 ARQI Cotizaciones</h3>
+    <p>Sistema para gestionar cotizaciones de proyectos con un flujo claro y rápido.</p>
+    <b>Tecnologías:</b><br>
+    <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
+    <img src="https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot">
+    <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
+    <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql"><br><br>
+    <a href="https://github.com/HarryRamirez/ARQI-Cotizaciones">
+      🔗 Ver repositorio
+    </a>
+  </div>
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+
+<!-- Easy Testing -->
+<a href="https://github.com/HarryRamirez/Izy-Testing">
+  <div style="
+      width: 300px;
+      display: inline-block;
+      text-align: left;
+      margin: 10px;
+      border-radius: 15px;
+      padding: 15px;
+      border: 1px solid #1b1b1b;
+  ">
+    <img src="https://via.placeholder.com/300x160?text=Easy+Testing" width="100%" style="border-radius: 10px;">
+    <h3>🧪 Easy Testing</h3>
+    <p>Plataforma para gestionar test suites con IA integrada, agentes y automatizaciones.</p>
+    <b>Tecnologías:</b><br>
+    <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django">
+    <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
+    <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
+    <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql">
+    <img src="https://img.shields.io/badge/AWS%20S3-05122A?style=flat&logo=amazonaws">
+    <img src="https://img.shields.io/badge/ChatGPT-05122A?style=flat&logo=openai"><br><br>
+    <a href="https://github.com/HarryRamirez/Easy-Testing">
+      🔗 Ver repositorio
+    </a>
+  </div>
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+
+<!-- AppStore -->
+<a href="https://github.com/HarryRamirez/AppStore">
+  <div style="
+      width: 300px;
+      display: inline-block;
+      text-align: left;
+      margin: 10px;
+      border-radius: 15px;
+      padding: 15px;
+      border: 1px solid #1b1b1b;
+  ">
+    <img src="https://via.placeholder.com/300x160?text=AppStore" width="100%" style="border-radius: 10px;">
+    <h3>📱 AppStore</h3>
+    <p>Gestor de aplicaciones con interfaz limpia y administración simple.</p>
+    <b>Tecnologías:</b><br>
+    <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
+    <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql"><br><br>
+    <a href="https://github.com/HarryRamirez/AppStore">
+      🔗 Ver repositorio
+    </a>
+  </div>
 </a>
 </div>
 
