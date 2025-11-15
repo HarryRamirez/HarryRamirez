@@ -9,19 +9,17 @@
 <div align="lefth">
 
 ### 👋 ¡Hola! Soy 
-💼 Actualmente soy Desarrollador Full Stack Junior en QVision Technologies.
-🎯 Trabajo en módulos internos, automatizaciones y funcionalidades para sistemas de gestión de proyectos.
-🚀 Me gustan las arquitecturas limpias, las buenas prácticas y optimizar procesos dentro del flujo de desarrollo.
-📚 Siempre aprendiendo algo nuevo y fortaleciendo mis habilidades en desarrollo full stack.
+💻 Desarrollador Full Stack Junior enfocado en construir software limpio, escalable y con propósito.
+✨ Me apasiona unir lo mejor del backend (Django, Spring Boot) con el frontend (Angular) para crear experiencias eficientes y elegantes.
 
 ---
 
 ### 🧭 Sobre mí
 
-🎯 Actualmente trabajo en sistemas de **gestión de proyectos** y **automatización con IA**.  
-🚀 Amante de las **arquitecturas limpias**, **Celery**, **AWS** y la **optimización de rendimiento**.  
-☁️ Siempre aprendiendo algo nuevo — desde infraestructura hasta microservicios.
-
+💼 Actualmente soy Desarrollador Full Stack Junior en QVision Technologies.
+🎯 Trabajo en módulos internos, automatizaciones y funcionalidades para sistemas de gestión de proyectos.
+🚀 Me gustan las arquitecturas limpias, las buenas prácticas y optimizar procesos dentro del flujo de desarrollo.
+📚 Siempre aprendiendo algo nuevo y fortaleciendo mis habilidades en desarrollo full stack.
 </div>
 
 ---
