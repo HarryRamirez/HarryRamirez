@@ -133,9 +133,9 @@
 
 ### 📊 Estadísticas
 
-<table style="border: none;">
+<table border="0">
   <tr>
-    <td style="border: none;">
+    <td>
       <a href="https://github.com/HarryRamirez">
         <img 
           height="180em" 
@@ -144,7 +144,7 @@
         />
       </a>
     </td>
-    <td style="border: none;">
+    <td>
       <a href="https://github.com/HarryRamirez">
         <img 
           height="180em" 
