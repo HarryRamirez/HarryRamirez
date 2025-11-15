@@ -27,7 +27,7 @@
 ### 🧠 Tecnologías
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 10px;">
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
