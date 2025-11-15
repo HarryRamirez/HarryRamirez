@@ -79,7 +79,7 @@ Gestión avanzada de tareas, usuarios y automatización de procesos.</p>
 
 <br/>
 
-<a href="https://github.com/kennyramirez/s3-uploader" style="text-decoration:none;">
+<a href="https://github.com/HarryRamirez" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/-☁️%20Uploader%20S3%20Asíncrono-0EA5E9?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Uploader S3"/>
 </a>
 
