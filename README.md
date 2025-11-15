@@ -63,7 +63,6 @@
 <div align="center" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 22px;">
 
   <!-- ARQI Cotizaciones -->
-  <a href="https://github.com/HarryRamirez/ARQI" style="text-decoration: none; color: inherit;">
     <div style="
       width: 250px;
       background: #ffffff10;
@@ -74,7 +73,7 @@
       text-align: center;
     ">
       <img src="arky.png"
-        style="width: 80px; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
+        style="width: 45%; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
       
       <h3 style="margin: 0 0 8px 0; font-size: 18px;">📌 ARQI Cotizaciones</h3>
       <p style="font-size: 14px; margin-bottom: 14px; text-align: left;">
@@ -82,12 +81,12 @@
       </p>
 
       <b style="font-size: 13px;">Tecnologías:</b>
-      <div style="margin-top: 8px;">
-        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-        <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      </div>
+      
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+     
 
       <div style="margin-top: 14px; font-size: 14px;">🔗 Ver repositorio</div>
     </div>
