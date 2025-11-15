@@ -103,14 +103,9 @@
 
 </div> 
 </td> 
-</tr> 
-</table> 
-<br> 
 
 
-<table> 
-  <tr> 
-    <td width="20%"> 
+    <td width="40%"> 
       <h3 align="center">📱 AppStore</h3> 
       <div align="center" style="border:1px solid #222;border-radius:16px;padding:14px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"> <a href="https://github.com/HarryRamirez/AppStore" target="_blank"> <img src="https://via.placeholder.com/260x150?text=AppStore" width="260" style="border-radius:12px;" alt="AppStore"> </a> <p> <strong>Gestor de aplicaciones con una interfaz limpia y administración simple.</strong> </p>
 
@@ -123,7 +118,15 @@
 <img src="https://img.shields.io/badge/Repositorio-fff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
-</div> </td> </tr> </table>
+</div> </td> 
+</tr> 
+</table> 
+<br> 
+
+
+<table> 
+  <tr> 
+</tr> </table>
 ---
 
 ### 📊 Estadísticas
