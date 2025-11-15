@@ -71,7 +71,7 @@
   box-shadow:0 4px 12px rgba(0,0,0,0.18);
 ">
 
-<img src="arky.png" width="100%" style="margin-bottom:12px; margin-top: 0;" alt="ARKY">
+<img src="arky.png" width="100%" style="margin-bottom:12px;" alt="ARKY">
 
 <h3 align="center">📌 ARKY Cotizaciones</h3>
 
@@ -136,8 +136,8 @@
 <p align="lefth">
 <a href="https://github.com/HarryRamirez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarryRamirez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=css,html&exclude_repo=Curso-Java,Ejercicios-UTP,pruebas"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarryRamirez&layout=compact&langs_count=8&theme=algolia&hide=css,html&exclude_repo=Curso-Java,Ejercicios-UTP,pruebas"/>
 </a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarryRamirez&layout=compact&langs_count=8&theme=algolia&hide=css,html&exclude_repo=Curso-Java,Ejercicios-UTP,pruebas"/>  
 </p>
 
 ---
