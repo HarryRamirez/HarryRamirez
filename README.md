@@ -85,7 +85,7 @@
 
 <br><br>
 
-<a href="https://github.com/HarryRamirez/ARKY" target="_blank">
+<a href="https://github.com/HarryRamirez/ARKY/tree/main/arky-cotizaciones/arky-cotizaciones" target="_blank">
 <img src="https://img.shields.io/badge/Repositorio-fff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
